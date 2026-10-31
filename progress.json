@@ -1,0 +1,16 @@
+{
+  "generated_at": "2026-10-31T04:23:58.346Z",
+  "items": {
+    "math:27": {
+      "kind": "math",
+      "id": "27",
+      "title": "Statistical Inference",
+      "difficulty": "medium",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/27",
+      "path": "math/0027-statistical-inference",
+      "first_solved_at": "2026-10-31T04:23:52.172Z",
+      "last_pushed_at": "2026-10-31T04:23:52.172Z"
+    }
+  }
+}
